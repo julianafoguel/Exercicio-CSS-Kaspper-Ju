@@ -1,0 +1,41 @@
+h1 {
+    font-family: sans-serif;
+    color: #380B61;
+   } 
+
+   h1 {
+    background-color: blanchedalmond;
+   }
+
+div {
+    margin-top:  1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2%;
+}
+
+p {
+    font-family: sans-serif;
+    color: #f6fbfb;
+}
+
+a:link, a:visited{
+    border-radius: 30px;
+    background-color:blueviolet;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:  10px;
+    padding-right: 10px;
+}
+
+a:hover, a:active{
+    background-color: rgb(136,22,22);
+    color:aquamarine;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:  10px;
+    padding-right: 10px;
+}
